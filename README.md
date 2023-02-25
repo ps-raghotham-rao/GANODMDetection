@@ -21,4 +21,4 @@ This research paper proposes a method to increase the size and diversity of data
 Some modifications are required which are explained inside the docs of py files.
 
 
-### Paper Draft - paper.txt
+#### Paper Draft - paper.txt
