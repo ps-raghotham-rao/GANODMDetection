@@ -19,3 +19,6 @@ This research paper proposes a method to increase the size and diversity of data
 - python filter.py
 
 Some modifications are required which are explained inside the docs of py files.
+
+
+A draft of paper is in paper.txt
