@@ -1,4 +1,4 @@
-# GANODMDetection
+# Using GAN and Simple Copy Paste Augmentation methods to generate ODM Dataset
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
